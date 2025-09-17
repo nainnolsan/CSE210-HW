@@ -1,4 +1,7 @@
 # cse210-student-template
+
+Hello Brother this is me Nain Nolasco, I just added this statement, bye.
+
 This is the starter code for students in CSE 210.
 
 This repository contains the starter code for many different projects. They are arranged as follows:

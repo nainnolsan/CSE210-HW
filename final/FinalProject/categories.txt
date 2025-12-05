@@ -1,0 +1,5 @@
+Food|true
+Rent|true
+Transportation|true
+Utilities|true
+Wife|false
